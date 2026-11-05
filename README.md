@@ -17,6 +17,8 @@ This repository contains my laboratory assignments and implementations for the A
 
 ## Setup & Requirements
 * Python 3.8+
+* Required packages for Lab 3: `pip install numpy pandas matplotlib seaborn`
+* Required packages for Lab 5: `pip install scikit-learn pandas`
 * To run any script, navigate to its folder and execute it: `python script_name.py`
 
 **Example:**
