@@ -13,6 +13,7 @@ This repository contains my laboratory assignments and implementations for the A
 | **Lab 2** | Informed Search | Greedy Best-First Search | [View Solution](./05_Best_First_Search/) |
 | **Lab 2** | Optimal Pathfinding | A* (A-Star) Search | [View Solution](./06_A_Star_Search/) |
 | **Lab 3** | Data Foundations | Data Preprocessing, EDA, NumPy, Pandas, Visualization | [View Solution](./07_Data_Preprocessing_EDA/) |
+| **Lab 4** | Knowledge & Logic | Rule-Based Systems, Semantic Networks | [View Solution](./08_Knowledge_Representation/) |
 
 ## Setup & Requirements
 * Python 3.8+
