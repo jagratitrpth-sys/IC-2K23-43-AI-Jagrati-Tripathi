@@ -14,6 +14,7 @@ This repository contains my laboratory assignments and implementations for the A
 | **Lab 2** | Optimal Pathfinding | A* (A-Star) Search | [View Solution](./06_A_Star_Search/) |
 | **Lab 3** | Data Foundations | Data Preprocessing, EDA, NumPy, Pandas, Visualization | [View Solution](./07_Data_Preprocessing_EDA/) |
 | **Lab 4** | Knowledge & Logic | Rule-Based Systems, Semantic Networks | [View Solution](./08_Knowledge_Representation/) |
+| **Lab 5** | Machine Learning | Decision Tree Classifier, Model Evaluation | [View Solution](./09_Decision_Tree_Classifier/) |
 
 ## Setup & Requirements
 * Python 3.8+
