@@ -15,11 +15,13 @@ This repository contains my laboratory assignments and implementations for the A
 | **Lab 3** | Data Foundations | Data Preprocessing, EDA, NumPy, Pandas, Visualization | [View Solution](./07_Data_Preprocessing_EDA/) |
 | **Lab 4** | Knowledge & Logic | Rule-Based Systems, Semantic Networks | [View Solution](./08_Knowledge_Representation/) |
 | **Lab 5** | Machine Learning | Decision Tree Classifier, Model Evaluation | [View Solution](./09_Decision_Tree_Classifier/) |
+| **Lab 6** | Deep Learning | PyTorch, Linear Regression, Neural Networks | [View Solution](./10_PyTorch_Neural_Networks/) |
 
 ## Setup & Requirements
 * Python 3.8+
 * Required packages for Lab 3: `pip install numpy pandas matplotlib seaborn`
 * Required packages for Lab 5: `pip install scikit-learn pandas`
+* Required packages for Lab 6: `pip install torch`
 * To run any script, navigate to its folder and execute it: `python script_name.py`
 
 **Example:**
