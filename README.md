@@ -16,6 +16,7 @@ This repository contains my laboratory assignments and implementations for the A
 | **Lab 4** | Knowledge & Logic | Rule-Based Systems, Semantic Networks | [View Solution](./08_Knowledge_Representation/) |
 | **Lab 5** | Machine Learning | Decision Tree Classifier, Model Evaluation | [View Solution](./09_Decision_Tree_Classifier/) |
 | **Lab 6** | Deep Learning | PyTorch, Linear Regression, Neural Networks | [View Solution](./10_PyTorch_Neural_Networks/) |
+| **Lab 7** | Advanced Concepts | PCA/SVD, FGSM (Adversarial), Grad-CAM (XAI) | [View Solution](./11_Advanced_AI_Concepts/) |
 
 ## Setup & Requirements
 * Python 3.8+
